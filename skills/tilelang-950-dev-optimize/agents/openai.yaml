@@ -1,0 +1,5 @@
+interface:
+  display_name: "TileLang 950 开发优化"
+  short_description: "编排 Ascend950 TileLang 开发、Profiling 与性能优化闭环"
+  default_prompt: "Use $tilelang-950-dev-optimize to develop or optimize this Ascend950 TileLang operator with precision and profiling evidence gates."
+

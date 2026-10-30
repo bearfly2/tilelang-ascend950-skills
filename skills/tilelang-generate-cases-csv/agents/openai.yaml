@@ -1,0 +1,4 @@
+interface:
+  display_name: "TileLang Pytest Cases CSV 生成器"
+  short_description: "从算子和 pytest 参数化测试生成可筛选的 cases.csv"
+  default_prompt: "Use $tilelang-generate-cases-csv to collect all pytest cases for this TileLang operator and prepare a validated cases.csv."
